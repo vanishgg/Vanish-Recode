@@ -13,12 +13,12 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/vanishgg/vanishraider" alt="Top Language">
-  <img src="https://img.shields.io/github/last-commit/vanishgg/vanishraider" alt="Last Commit">
-  <img src="https://img.shields.io/github/issues-closed/vanishgg/vanishraider" alt="Issues Closed">
-  <img src="https://img.shields.io/github/issues/vanishgg/vanishraider" alt="Issues">
-  <img src="https://img.shields.io/github/stars/vanishgg/vanishraider" alt="Stars">
-  <img src="https://img.shields.io/github/forks/vanishgg/vanishraider" alt="Forks">
+  <img src="https://img.shields.io/github/languages/top/vanishgg/vanish-recode" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/vanishgg/vanish-recode" alt="Last Commit">
+  <img src="https://img.shields.io/github/issues-closed/vanishgg/vanish-recode" alt="Issues Closed">
+  <img src="https://img.shields.io/github/issues/vanishgg/vanish-recode" alt="Issues">
+  <img src="https://img.shields.io/github/stars/vanishgg/vanish-recode" alt="Stars">
+  <img src="https://img.shields.io/github/forks/vanishgg/vanish-recode" alt="Forks">
 </p>
 <p><img src="https://i.ibb.co/rvDTKSt/nigga.png" alt="Preview"></p>
 
