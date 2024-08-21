@@ -87,6 +87,8 @@ Nothing ATM
   <li>Profile: <a href="https://vanishnet.netlify.app/profile">https://vanishnet.netlify.app/profile</a></li>
 </ul>
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=7B00FF&center=true&vCenter=true&width=380&lines=Vanish+raider;Raiding+made+simple;made+by+virtual" alt="Typing SVG">
 </p>
